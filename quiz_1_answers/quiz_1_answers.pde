@@ -1,4 +1,4 @@
-//function that gets called in the very first frame
+// function that gets called in the very first frame
 void setup ()
 {
   size(1280, 720, P3D);  //sets the screen size to 1280x720
