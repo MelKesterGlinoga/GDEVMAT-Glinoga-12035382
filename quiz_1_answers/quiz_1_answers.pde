@@ -1,7 +1,7 @@
 // function that gets called in the very first frame
 void setup ()
 {
-  size(1280, 720, P3D);  //sets the screen size to 1280x720
+  size(1280, 720, P3D);  // sets the screen size to 1280x720
   camera(0, 0, -(height/2.0) / tan(PI*30.0 / 180.0), 0, 0, 0, 0, -1, 0);
 }
 
